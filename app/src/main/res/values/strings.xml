@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="calculate_tip">Taxas de Serviços</string>
+    <string name="cost_of_service">Custo do Serviço</string>
+    <string name="tip_amount">Taxa de Serviço : %s</string>
+</resources>
